@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+streamlit
+sqlalchemy
+pytest
+psycopg2
+docker
