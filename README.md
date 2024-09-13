@@ -64,5 +64,5 @@ For any questions or feedback, please contact [aschalewthecoder@gmail.com](mailt
 
 **Project Status**: Active  
 **Last Updated**: September 2024  
-**Contributors**: [thecodr](https://your-portfolio.com)  
+**Contributors**: [thecodr](https://thecodr-portfolio.vercel.app)  
 **Acknowledgments**: Special thanks to [Data Source](https://drive.google.com/drive/folders/1y40EiCZjY3NliqpRl2ZnPMV5X4qKz7T1?usp=sharing) for providing the dataset used in this analysis.
